@@ -1,0 +1,1 @@
+This contains assets for Dangerous Summer by yeat, more specifically the album cover and alternative album covers and this is how it will be structured for every other one until I can find a better solution for getting album covers as a url through some API.
